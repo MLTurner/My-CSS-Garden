@@ -1,0 +1,30 @@
+a{
+  text-decoration: none;
+}
+body{
+  background-color:  #72C190;
+  color: navy;
+  font-family: 'Arial';
+}
+nav{
+  background-color: rgb(127, 50, 168);
+}
+aside{
+  background-color: #2931A8;
+}
+nav, aside{
+  text-color: black;
+}
+a{
+  text-decoration: none;
+  color: jade;
+}
+a :hover{
+  text-color: plum;
+}
+a :visited{
+  
+}
+section{
+  
+}
